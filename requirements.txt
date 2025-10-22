@@ -1,0 +1,7 @@
+kivy==2.2.2
+kivymd==1.1.1
+openpyxl==3.1.2
+pyinstaller==5.11.0
+# For Windows Kivy dependencies (binaries)
+kivy_deps.sdl2==0.4.5
+kivy_deps.glew==0.4.2
